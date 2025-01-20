@@ -1,0 +1,12 @@
+# Konfiguracja SMTP
+SMTP_HOST='host name'
+SMTP_PORT='port'
+SMTP_SECURE=false
+SMTP_USER='mail'
+SMTP_PASS='password'
+
+# Konfiguracja bazy MSSQL
+DB_USER='user name'
+DB_PASS='password'
+DB_SERVER='server name'
+DB_NAME='db name'
